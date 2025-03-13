@@ -55,15 +55,15 @@
     "d1_databases": [
         {
             "binding": "DATABASE",
-            "database_name": "cloudflare-workers-nextjs-saas",
-            "database_id": "94dd1269-a29c-4621-adff-1762d1af6926",
+            "database_name": "flexpay-db",
+            "database_id": "fac84ba2-0664-4c89-958e-816cd361a92a",
             "migrations_dir": "src/db/migrations"
         }
     ],
     "kv_namespaces": [
         {
             "binding": "NEXT_CACHE_WORKERS_KV",
-            "id": "c6f2b077e0a34a84b3598558eb833055"
+            "id": "9b446a1e145446d18d86ae3ceeebfc24"
         }
     ]
   }
